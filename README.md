@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ejerciciofirebase
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# desafioautenticacion
+>>>>>>> 7f79682f19f3e0fb179b355166aa44c7a77511e5
